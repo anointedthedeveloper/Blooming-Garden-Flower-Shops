@@ -6,7 +6,7 @@ A beautiful, responsive multi-page website for a modern flower shop built with H
 
 ## 🌐 Live Demo
 
-**Live Website:** [https://anointedthedeveloper.github.io/blooming-garden-flower-shop](https://anointedthedeveloper.github.io/blooming-garden-flower-shop)
+**Live Website:** [https://anointedthedeveloper.github.io/blooming-garden-flower-shop/](https://anointedthedeveloper.github.io/blooming-garden-flower-shop/)
 
 ## 🌟 Features
 
